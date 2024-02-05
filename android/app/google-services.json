@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721294336258",
+    "project_id": "vgtsgithub",
+    "storage_bucket": "vgtsgithub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721294336258:android:2a4cfa1ecb2670a731221b",
+        "android_client_info": {
+          "package_name": "com.vgts.github.vgtsgithub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARJigbg3dB_tyaZ0M82uafLuOiMJvTTyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
