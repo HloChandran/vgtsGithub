@@ -98,7 +98,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                       completer.complete(redirectedUrl))),
                     );
                     return completer.future;
-                  });
+                  },context);
                 },
                 child: CustomButton(
                   text: 'Sign in with Github',
